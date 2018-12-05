@@ -6,6 +6,7 @@ using namespace std;
 // CSCI 250
 // Assignment 2 - Counting
 // August 25, 2017
+// Hola Added Something New:
 
 int count(int A[], int length, int target)
 {
